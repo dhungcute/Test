@@ -8,4 +8,5 @@ public class Electronics extends Item {
     public String getCategory() {
         return "Dien tu";
     }
+    System.out.print();
 }
